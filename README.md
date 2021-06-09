@@ -14,8 +14,8 @@ For the better explanation, you can visit this notebook: https://colab.research.
 
 ## 3. Deploy the model on the cloud server
 
-## 4. Create an API to connect our mobile App to our cloud server
+## 4. Create the mobile App for Android
 
-## 5. Create the mobile App for Android
+## 5. Create an API to connect our mobile App to our cloud server
 
 
